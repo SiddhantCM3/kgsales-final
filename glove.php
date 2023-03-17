@@ -3,7 +3,7 @@
 
  <!--=================================
          Banner start-->
-         <div class="pq-breadcrumb" style="background-image:url('images/gloves-homepage-banner.jpg');">
+         <div class="pq-breadcrumb" style="background-image:url('images/gloveshomepagebanner.jpg');">
       <div class="container">
          <div class="row align-items-center">
             <div class="col-lg-12">

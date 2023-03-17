@@ -412,7 +412,7 @@ select.form-control {
 /*============ Container ===================*/
 section {
   position: relative;
-  padding: 130px 0px;
+  padding: 50px 0px 100px 0px;
 }
 
 .container {
@@ -519,7 +519,9 @@ section {
 
 .pq-bg-grey {
   background: var(--grey-color) !important;
-}
+  margin-top: 22%;
+    margin-bottom: 10%;
+  }
 
 .pq-bg-primary-dark {
   background-color: var(--primary-dark-color) !important;
@@ -5421,7 +5423,8 @@ Client
 }
 
 .pq-client.pq-bg-grey {
-  padding-top: 380px;
+  padding-top: 500px;
+  margin-top: 100px;
 }
 
 .pq-primary-section-side-left:before {
@@ -7184,6 +7187,7 @@ Custom Css
 
 .pq-pb-100 {
   padding-bottom: 100px;
+  margin-top: 50px;
 }
 
 .pq-pb-210 {

@@ -2,7 +2,7 @@
 
    <!--=================================
          Banner start-->
-         <div class="pq-breadcrumb" style="background-image:url('images/gloves-homepage-banner.jpg');">
+         <div class="pq-breadcrumb" style="background-image:url('images/gloveshomepagebanner.jpg');">
       <div class="container">
          <div class="row align-items-center">
             <div class="col-lg-12">
@@ -47,6 +47,47 @@
          </section>
    <!--=================================
          about-us end-->
+
+    <!--Testimonial Start-->
+    <section class="testimonial-style-3 py-0 pq-mb-260">
+        <div class="container">
+            <div class="row pq-bg-primary pq-pe-45">
+                <div class="col-lg-6">
+                    <div class="pq-overflow-65">
+                        <img src="images\products\2138d4be0439ca40efb42aa1ef842aa0-removebg-preview.png" alt="" style="margin-top: -20%;">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="owl-carousel owl-loaded owl-drag" data-dots="true" data-nav="false" data-desk_num="1" data-lap_num="1" data-tab_num="1" data-mob_num="1" data-mob_sm="1" data-autoplay="true" data-loop="true" data-margin="30">
+                        <div class="item">
+                            <div class="pq-testimonial-box pq-style-3">
+                                <div class="pq-testimonial-star"><h4 style="color:#2490eb;">VISION</h4></div>
+                                <div class="pq-testimonial-content">Our vision is to be a leading provider of consumable and disposable surgical products that are trusted by healthcare professionals and patients around the world. We aim to achieve this by continually innovating and improving our products to meet the evolving needs of our customers. We are committed to providing exceptional service and support to our customers, and we believe that by doing so, we can make a meaningful impact on the healthcare industry.</div>
+                                <div class="pq-testimonial-media">
+                                    <div class="pq-testimonial-icon">
+                                        <i class="fas fa-quote-right"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="pq-testimonial-box pq-style-3"  style="min-height:427px">
+                                <div class="pq-testimonial-star"><h4 style="color:#2490eb;">MISSION</h4></div>
+                                <div class="pq-testimonial-content">Our mission is to provide high-quality consumable and disposable surgical products that meet the needs of healthcare professionals and patients. We are dedicated to ensuring that our products meet the highest standards of quality, safety, and effectiveness. We strive to build long-lasting relationships with our customers by providing exceptional service and support.</div>
+                                <div class="pq-testimonial-media">
+                                    <div class="pq-testimonial-icon">
+                                        <i class="fas fa-quote-right"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Testimonial End-->
+
 
 <!--Testimonial Start-->
 <section class="pq-bg-grey ">

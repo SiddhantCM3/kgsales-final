@@ -52,10 +52,10 @@
                         <h4 class="footer-title">Quick Links</h4>
                         <div class="menu-useful-links-container">
                            <ul id="menu-useful-links" class="menu">
-                              <li><a href="index.html">Home</a></li>
-                              <li><a href="about-us.html">About Us</a></li>
-                              <li><a href="gloves.html">Our Products</a></li>
-                              <li><a href="contact-us.html">Contact Us</a></li>
+                              <li><a href="index.php">Home</a></li>
+                              <li><a href="about.php">About Us</a></li>
+                              <li><a href="glove.php">Our Products</a></li>
+                              <li><a href="contact.php">Contact Us</a></li>
                            </ul>
                         </div>
                         <div class="pq-footer-social">
