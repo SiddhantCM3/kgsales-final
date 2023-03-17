@@ -1,6 +1,8 @@
 <?php include("header.php");?>
 
-<div class="pq-breadcrumb" style="background-image:url('images/gloves-homepage-banner.jpg');">
+   <!--=================================
+         Banner start-->
+         <div class="pq-breadcrumb" style="background-image:url('images/gloves-homepage-banner.jpg');">
       <div class="container">
          <div class="row align-items-center">
             <div class="col-lg-12">
@@ -52,7 +54,6 @@
       <div class="row">
          <div class="col-lg-12">
             <div class="pq-section pq-style-1 text-center"> <span class="pq-section-sub-title">OUR CERTIFICATES</span>
-               <h5 class="pq-section-title">Lorem ipsum dolor sit amet consectetur.</h5>
             </div>
          </div>
          <div class="col-lg-12 pq-testimonial-whitebg ">

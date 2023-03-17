@@ -1,57 +1,53 @@
-<!-- =========================
+
+   <!-- =========================
      Footer start
    ============================== -->
 
    <footer id="pq-footer">
-        <div class="pq-footer-style-1">
-            <!-- <div class="pq-subscribe align-items-center">
-                <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-12">
-                        <div class="pq-subscribe-bg">
-                            <div class="row align-items-center">
-                                <div class="col-lg-8">
-                                <div class="pq-subscribe-block"> <img src="images/Subscribe.png"
-                                        class="pq-subscribe-img img-fluid" alt="medicate-subscribe-image">
-                                    <div class="pq-subscribe-details">
-                                        <h5>DO YOU STILL HAVE A QUESTION REGARING OUR SERVICES?</h5>
-                                    </div>
-                                </div>
-                            </div> 
-                            <div class="col-lg-4 align-self-center">
-                                <div class="pq-subscribe-from">
-                                    <form id="form" class="form">
-                                        <div class="form-fields">
-                                        <input class="" type="submit" value="Contact-us">
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                            </div>
+      <div class="pq-footer-style-1">
+         <div class="pq-subscribe align-items-center">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-12">
+                     <div class="pq-subscribe-bg">
+                        <div class="row align-items-center">
+                           <div class="col-lg-8">
+                              <div class="pq-subscribe-block"> <img src="images/Subscribe.png"
+                                    class="pq-subscribe-img img-fluid" alt="medicate-subscribe-image">
+                                 <div class="pq-subscribe-details">
+                                    <h5>DO YOU STILL HAVE A QUESTION REGARING OUR SERVICES?</h5>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-lg-4 align-self-center">
+                              <div class="pq-subscribe-from">
+                                 <form id="form" class="form">
+                                    <a href="contact.php" class="pq-button pq-button-flat pq-mt-45 border">
+                                     <div class="pq-button-block">
+                                        <span class="pq-button-text ">Contact-Us</span>
+                                         <i class="ion ion-plus-round"></i>
+                                     </div>
+                                   </a>
+                                 </form>
+                              </div>
+                           </div>
                         </div>
-                    </div>
-                </div>
-                </div>
-            </div> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
          <div class="pq-footer-top">
             <div class="container">
                <div class="row">
                   <div class="col-xl-4 col-md-6">
                      <div class="pq-footer-block">
-                        <img src="images\DK logo-01.png" class="pq-footer-logo img-fluid" alt="medicate-footer-logo">
+                        <img src="images\DK logo-01.png" class="pq-footer-logo img-fluid" alt="medicate-footer-logo" style="margin-bottom: 0; align">
                         <p>Welcome to our Dr. Kana Pharmcutical, where we specialize in providing a wide range of consumable and disposable surgical products. Our company is dedicated to providing high-quality products that meet the needs of healthcare professionals and patients alike.</p>
 
-                        <div class="pq-footer-social">
-                           <ul>
-                              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                              <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                              <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                           </ul>
-                        </div>
                      </div>
                   </div>
-                  <div class="col-xl-3  col-md-6">
+                  <div class="col-xl-3  col-md-6 pt-5">
                      <div class="pq-footer-block">
                         <h4 class="footer-title">Quick Links</h4>
                         <div class="menu-useful-links-container">
@@ -62,9 +58,17 @@
                               <li><a href="contact-us.html">Contact Us</a></li>
                            </ul>
                         </div>
+                        <div class="pq-footer-social">
+                           <ul>
+                              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                              <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                              <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                           </ul>
+                        </div>
                      </div>
                   </div>
-                  <div class="col-xl-5  col-md-6">
+                  <div class="col-xl-5  col-md-6 pt-5">
                      <div class="pq-footer-block">
                         <h4 class="footer-title">Contact Us</h4>
                         <div class="row">
@@ -75,7 +79,30 @@
                                     </a> </li>
                                  <li> <a href="https://peacefulqode.com/cdn-cgi/l/email-protection#d8b1b6beb798a8bdb9bbbdbeadb4acb0bdb5bdabf6bbb7b5"><i
                                           class="fas fa-envelope"></i><span><span class="__cf_email__" data-cfemail="fc95929a93bc8c999d9f999a899088949991998fd29f9391">Email ID - Dr.Kana@gmail.com </span></span></a> </li>
-                                 <li> <i class="fas fa-map-marker"></i> <span>Gala No. 3, Khotari Compound, Kherani Road Sakinaka, Andheri, Near Wajan Kata, ASALPHA, Mumbai-400072, Maharashtra, India</span> </li></i> </a>
+                                 <li> <i class="fas fa-map-marker"></i> <span>Gala No. 3, Khotari Compound, Kherani Road Sakinaka, Andheri, Near Wajan Kata, ASALPHA, Mumbai-400072, Maharashtra, India</span> </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="pq-copyright-footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12 text-center "> <span class="pq-copyright"> Copyright 2023 DK GROUP</span> </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </footer>
+
+   <!--Footer End-->
+
+   <!--Back To Top start-->
+   <div id="back-to-top">
+      <a class="topbtn" id="top" href="#top"> <i class="ion-ios-arrow-up"></i> </a>
    </div>
    <!--Back To Top End-->
    <!--jquery js-->

@@ -899,6 +899,8 @@ Blog Sidebar
 }
 
 /*=====================SideBar-Search=====================*/
+
+
 .pq-widget.widget_search {
   background: var(--primary-color);
 }
@@ -1065,6 +1067,8 @@ Blog Sidebar
 }
 
 /*===================== SideBar - Recent Comments =====================*/
+
+
 .pq-widget.pq-widget_recent_comments #recentcomments li.recentcomments span a,
 .pq-widget.pq-widget_recent_comments #recentcomments--1 li.recentcomments span a {
   color: var(--secondary-color);
@@ -1697,7 +1701,7 @@ header#pq-header {
 }
 
 header#pq-header.pq-header-sticky {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   display: inline-block;
@@ -1992,7 +1996,7 @@ header#pq-header .pq-button:hover .pq-button-line-left {
 
 /*============ Header Default ============*/
 header#pq-header.pq-header-default .pq-bottom-header.pq-header-sticky {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   display: inline-block;
@@ -2140,7 +2144,7 @@ header#pq-header.pq-header-style-2 .pq-search-form {
 
 /*============ Header Style-2 sticky ============*/
 header#pq-header.pq-header-style-2.pq-header-sticky {
-  position: fixed;
+  position:absolute;
   top: 0;
   left: 0;
   display: inline-block;
@@ -2882,7 +2886,7 @@ footer#pq-footer .pq-footer-style-1 {
 }
 
 footer#pq-footer .pq-footer-top {
-  padding: 70px 0 0;
+  padding: 50px 0 0;
   position: relative;
   z-index: 9;
 }
@@ -2912,7 +2916,6 @@ footer#pq-footer .pq-copyright-footer .pq-copyright a:hover {
 
 footer#pq-footer .pq-footer-logo {
   height: 150px;
-  margin-bottom: 30px;
   width: auto;
   border-radius: 0;
 }
@@ -2926,6 +2929,7 @@ footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li {
   list-style: none;
   float: left;
   margin-right: 10px;
+  padding-top: 15px;
 }
 
 footer#pq-footer .pq-footer-style-1 ul.menu li a:hover,
@@ -2964,6 +2968,9 @@ footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li a {
   text-align: center;
   display: inline-block;
   padding: 0;
+}
+footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li a {
+  padding-top: 15px;
 }
 
 footer#pq-footer .pq-footer-style-1 .pq-footer-social ul li a:hover {
@@ -7093,6 +7100,7 @@ rev-slider
   box-sizing: border-box;
 }
 
+
 #rev_slider_24_1_wrapper .metis.tparrows.rs-touchhover,
 #rev_slider_25_1_wrapper .metis.tparrows.rs-touchhover,
 #rev_slider_29_1_wrapper .metis.tparrows.rs-touchhover {
@@ -7981,3 +7989,4 @@ Custom Css
 .place .py-130{
   padding: 130px 0;
 }
+
