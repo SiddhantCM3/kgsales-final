@@ -12,7 +12,7 @@
                      <h2>Our Products</h2> </div>
                   <div class="pq-breadcrumb-container mt-2">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="fas fa-home mr-2"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home mr-2"></i>Home</a></li>
                         <li class="breadcrumb-item active">Hygiene Products</li>
                      </ol>
                   </div>
@@ -54,10 +54,10 @@
                                 <div class="pq-icon-box-content">
                                     <h6 class="pq-icon-box-title"><span>Types of Hygiene Products we offer:</span></h6>
                                     <ul class="text-capitalize">
-                                        <li>Microfiber cloth</li>
-                                        <li>Menstrual cup</li>
-                                        <li>Pulse oximeter</li>
-                                        <li>Diapers</li>
+                                        <li><a href="#section-1">Microfiber cloth</a></li>
+                                        <li><a href="#section-2">Menstrual cup</a></li>
+                                        <li><a href="#section-3">Pulse oximeter</a></li>
+                                        <li><a href="#section-4">Diapers</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
          common-quaries start-->
    <section class="faq">
       <div class="container">
-         <div class="row">
+         <div class="row" id="section-1">
             <div class="col-xl-6"> <img src="images/products/microfiber-cloth.jpg" class="img-fluid" alt=""> </div>
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
@@ -137,7 +137,7 @@
 
    <section class="faq mt-2">
       <div class="container">
-         <div class="row">
+         <div class="row" id="section-2">
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
                   <h5 class="pq-section-title">Menstrual cup</h5>
@@ -203,7 +203,7 @@
 
    <section class="faq">
       <div class="container">
-         <div class="row">
+         <div class="row" id="section-3">
             <div class="col-xl-6"> <img src="images/products/pluseoximeter.webp" class="img-fluid" alt=""> </div>
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
@@ -273,7 +273,7 @@
 
    <section class="faq">
     <div class="container">
-       <div class="row">
+       <div class="row" id="section-4">
           <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
              <div class="pq-section pq-style-1 ">
                 <h5 class="pq-section-title">Diapers</h5>
