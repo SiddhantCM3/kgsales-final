@@ -152,14 +152,14 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6"> <img src="images\products\maskimage041-01.jpg" class="img-fluid" alt=""> </div>
+            <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\maskimage041-01.jpg" class="img-fluid" alt=""> </div>
          </div>
       </div>
    </section>
    <section class="faq">
       <div class="container">
          <div class="row" id="section-2">
-            <div class="col-xl-6"> <img src="images\products\maskimage06-01croped.jpg" class="img-fluid" alt=""> </div>
+            <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\maskimage06-01croped.jpg" class="img-fluid" alt=""> </div>
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
                   <h5 class="pq-section-title">3-ply melt-blown face mask</h5>

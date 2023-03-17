@@ -30,7 +30,7 @@
          <section class="about-us">
             <div class="container">
                <div class="row">
-                  <div class="col-xl-6 pe-xl-5"> <img src="images/pexels-photo-4066498.webp" class="img-fluid wow fadeInLeft" alt="home"> </div>
+                  <div class="col-xl-6 pe-xl-5" style="display: grid; place-items: center;"> <img src="images/pexels-photo-4066498.webp" class="img-fluid wow fadeInLeft align-middle" alt="home" > </div>
                   <div class="col-xl-6 px-xl-4 mt-4 mt-xl-0">
                      <div class="pq-section pq-style-1 text-left"> <span class="pq-section-sub-title">What About Us</span>
                         <p class="pq-section-description">Welcome to our Dr. Kana Pharmaceutical, where we specialize in providing a wide range of consumable and disposable surgical products. Our company is dedicated to providing high-quality products that meet the needs of healthcare professionals and patients alike.</p>

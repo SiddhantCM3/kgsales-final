@@ -106,7 +106,7 @@
    <!--Section Start -->
    <section class="pt-10 pb-0">
       <div class="container-fluid">
-           <div class="pq-section pq-style-1 text-center"> <span class="pq-section-sub-title">OUR CLIENTS</span> </div>
+           <div class="pq-section pq-style-1 text-center"> <span class="pq-section-sub-title">OUR PRODUCTS</span> </div>
        <div class="row">
             <div class="col-lg-12">
                <div class="col-lg-12">

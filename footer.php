@@ -19,7 +19,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class="col-lg-4 align-self-center">
+                           <div class="col-lg-4 align-items-center">
                               <div class="pq-subscribe-from">
                                  <form id="form" class="form">
                                     <a href="contact.php" class="pq-button pq-button-flat pq-mt-45 border">
@@ -108,7 +108,10 @@
    <!--jquery js-->
    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.min.js"></script>
    <!--bootstrap js-->
-   <script src="js/bootstrap.min.js"></script>
+   <!-- <script src="js/bootstrap.min.js"></script> -->
+   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+   
    <!--owl-carousal-->
    <script src="js/owl.carousel.min.js"></script>
    <!--progress-bar js-->

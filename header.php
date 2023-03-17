@@ -6,7 +6,8 @@
    <!-- Favicon Icon -->
    <link rel="shortcut icon" href="images/favicon.ico">
    <!-- Bootstrap CSS -->
-   <link rel="stylesheet" href="css/bootstrap.min.css">
+   <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
    <!-- LOADING FONTS AND ICONS -->
    <link rel="stylesheet" type="text/css" href="rev/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
    <link rel="stylesheet" type="text/css" href="rev/fonts/font-awesome/css/font-awesome.css">

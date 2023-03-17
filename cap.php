@@ -155,7 +155,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6"> <img src="images/products/Disposable-Bouffant.jpg" class="img-fluid" alt=""> </div>
+            <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images/products/Disposable-Bouffant.jpg" class="img-fluid" alt=""> </div>
          </div>
       </div>
    </section>

@@ -398,6 +398,7 @@ select.form-control {
   height: 50px;
   text-align: center;
   line-height: 50px;
+  padding-top: 10px;
 }
 
 #back-to-top .topbtn:hover {
@@ -2799,8 +2800,8 @@ Footer Subscribe
 .pq-subscribe-bg {
   background: var(--primary-color);
   color: var(--white-color);
-  padding: 45px;
   border-radius: 3px;
+
 }
 
 .pq-subscribe-block {
@@ -7776,7 +7777,7 @@ Custom Css
 }
 
 .pq-mb-260{
-  margin-bottom: -260px;
+  margin-bottom: 70px;
 }
 
 .pq-pt-260{

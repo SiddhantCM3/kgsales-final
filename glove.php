@@ -191,7 +191,7 @@
          <div class="row" id="section-2">
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
-                  <h5 class="pq-section-title">Nitrile Gloves</h5>
+                  <h5 class="pq-section-title"> </h5>
                   <p class="pq-detail-text">Nitrile is a synthetic copolymer, formed through acrylonitrile and butadiene combining. Nitrile Gloves also have superior chemical resistance to other disposable gloves. This is due to the fact that Nitrile Rubber has better resistance to chemicals, acids & oils over against natural rubber. Nitrile Gloves are also powder free, these further reduce the risk of allergens and dealing with messy powder.</p>
                </div>
                <div class="pq-accordion-block mt-4">
@@ -270,7 +270,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6"> <img src="images\products\Nitrile-Gloves.jpg" class="img-fluid" alt=""> </div>
+            <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\Nitrile-Gloves.jpg" class="img-fluid" alt=""> </div>
          </div>         
       </div>
    </section>
@@ -278,7 +278,7 @@
    <section class="faq">
       <div class="container">
          <div class="row" id="section-3">
-            <div class="col-xl-6"> <img src="images\products\Vinyl-Gloves.jpg" class="img-fluid" alt=""> </div>
+            <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\Vinyl-Gloves.jpg" class="img-fluid" alt=""> </div>
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
                   <h5 class="pq-section-title">Vinyl gloves</h5>
@@ -496,7 +496,7 @@
                 </div>
              </div>
           </div>
-          <div class="col-xl-6"> <img src="images\products\HouseholdRubberGloves.jpg" class="img-fluid" alt=""> </div>
+          <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\HouseholdRubberGloves.jpg" class="img-fluid" alt=""> </div>
        </div>         
     </div>
  </section>
@@ -504,7 +504,7 @@
  <section class="faq">
     <div class="container">
        <div class="row" id="section-5">
-          <div class="col-xl-6"> <img src="images\products\senstouch-industrial-rubber-gloves.jpg" class="img-fluid" alt=""> </div>
+          <div class="col-xl-6" style="display: grid; place-items: center;"> <img src="images\products\senstouch-industrial-rubber-gloves.jpg" class="img-fluid" alt=""> </div>
           <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
              <div class="pq-section pq-style-1 ">
                 <h5 class="pq-section-title">Senstouch Industrial rubber gloves</h5>
