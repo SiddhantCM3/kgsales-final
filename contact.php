@@ -34,9 +34,9 @@
             <div class="col-lg-4 col-md-6 col-sm-12" >
                <div class="pq-contact-box">
                   <div class="pq-contact-box-icon">
-                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-location" style="padding-top:20px;"></i> </div>
+                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-location" style="padding-top:15px;"></i> </div>
                   </div>
-                  <div class="pq-contact-box-info"  style="height:15vh;">
+                  <div class="pq-contact-box-info"  style="height:18vh;">
                      <h4 class="pq-contact-box-title">
                               Our Location
                            </h4>
@@ -47,9 +47,9 @@
             <div class="col-lg-4 col-md-6 col-sm-12 mt-lg-0 mt-md-0 mt-4">
                <div class="pq-contact-box">
                   <div class="pq-contact-box-icon">
-                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-ios-telephone" style="padding-top:20px;" ></i> </div>
+                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-ios-telephone" style="padding-top:15px;" ></i> </div>
                   </div>
-                  <div class="pq-contact-box-info" style="height:15vh;">
+                  <div class="pq-contact-box-info" style="height:18vh;">
                      <h4 class="pq-contact-box-title">
                               Our Contact
                            </h4>
@@ -61,9 +61,9 @@
             <div class="col-lg-4 col-md-6 col-sm-12 mt-lg-0 mt-4">
                <div class="pq-contact-box">
                   <div class="pq-contact-box-icon">
-                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-email-unread" style="padding-top:20px;"></i> </div>
+                     <div class="icon animation-grow"> <i aria-hidden="true" class="ion ion-email-unread" style="padding-top:15px;"></i> </div>
                   </div>
-                  <div class="pq-contact-box-info" style="height:15vh;">
+                  <div class="pq-contact-box-info" style="height:18vh;">
                      <h4 class="pq-contact-box-title">
                               Mail Us
                            </h4>
