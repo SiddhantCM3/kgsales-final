@@ -25,7 +25,7 @@
 <!-- rev-slider end-->
 
 
-   <section class="about-us pq-bg-grey pq-mb-130 pq-pb-130">
+   <section class="about-us pq-bg-grey pq-mb-100 pq-pb-100">
       <div class="container">
          <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 pe-xl-5"> <img src="images/About-us/pexels-photo-5998502.jpeg" class="img-fluid wow fadeInLeft"
@@ -47,6 +47,7 @@
       </div>
    </section>
    <!--Section End-->
+
    <!--Section Start -->
    <section class="p-sm-0 departments">
       <div class="container">
