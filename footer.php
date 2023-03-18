@@ -11,17 +11,17 @@
                   <div class="col-lg-12">
                      <div class="pq-subscribe-bg">
                         <div class="row align-items-center">
-                           <div class="col-lg-8">
+                           <div class="col-lg-9">
                               <div class="pq-subscribe-block"> <img src="images/Subscribe.png"
-                                    class="pq-subscribe-img img-fluid" alt="medicate-subscribe-image">
-                                 <div class="pq-subscribe-details">
-                                    <h5>DO YOU STILL HAVE A QUESTION REGARING OUR SERVICES?</h5>
+                                    class="pq-subscribe-img img-fluid ml-5" alt="medicate-subscribe-image">
+                                 <div class="pq-subscribe-details" style="display: grid;place-items: center;">
+                                    <h6 style="color:white;">DO YOU STILL HAVE A QUESTION REGARING OUR SERVICES?</h6>
                                  </div>
                               </div>
                            </div>
-                           <div class="col-lg-4 align-items-center">
+                           <div class="col-lg-3 align-items-center">
                               <div class="pq-subscribe-from">
-                                 <form id="form" class="form">
+                                 <form id="form" class="form" style="margin-top: -30px;">
                                     <a href="contact.php" class="pq-button pq-button-flat pq-mt-45 border">
                                      <div class="pq-button-block">
                                         <span class="pq-button-text ">Contact-Us</span>

@@ -2815,6 +2815,7 @@ Footer Subscribe
 .pq-subscribe-block .pq-subscribe-img {
   width: 55px;
   color: var(--primary-color);
+  margin-left: 20px;
 }
 
 .pq-subscribe-block .pq-subscribe-details {
