@@ -90,24 +90,24 @@
                   <form action="connection.php" id="contactform" class="pq-applyform">
                      <div class="row">
                         <div class="col-lg-6 col-md-6"> 
-                           <input type="text" id="first-name" name="yourname" class="name-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Name"> 
+                           <input type="text" id="yourname" name="yourname" class="name-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Name"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="email" id="e-mail" name="youremail" class="e-mail-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"> 
+                           <input type="email" id="youremail" name="youremail" class="e-mail-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="text" id="phone-number" name="phonenumber" class="phone-number-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Phone Number"> 
+                           <input type="text" id="phonenumber" name="phonenumber" class="phone-number-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Phone Number"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="text" id="subject" name="yourSubject" class="subject-field" size="40" aria-required="true" aria-invalid="false" placeholder="Subject"> 
+                           <input type="text" id="yourSubject" name="yourSubject" class="subject-field" size="40" aria-required="true" aria-invalid="false" placeholder="Subject"> 
                         </div>
                         <div class="col-lg-12 col-md-12">
-                           <textarea name="your-message" id="message" cols="40" rows="10" aria-required="true" aria-invalid="false" placeholder="Write Your Message"></textarea>
+                           <textarea name="message" id="message" cols="40" rows="10" aria-required="true" aria-invalid="false" placeholder="Write Your Message"></textarea>
                         </div>
                         <div class="col-lg-12 col-md-12">
-                           <a class="pq-button form-btn">
+                           <a>
                               <div class="pq-button-block">
-                                 <span class="pq-button-text me-0"><input type="submit" value="send message" name="submit" id="submit"></span>
+                                 <input type="submit" value="send message" name="submit" id="submit" class="pq-button-text me-0">
                               </div>
                            </a>
                         </div>

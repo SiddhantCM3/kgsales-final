@@ -27,7 +27,7 @@ if(isset($_POST["submit"])){
 
   $mail->isHTML(true);
 
-  $mail->Subject = $_POST["sub"];
+  $mail->Subject = $_POST["yourSubject"];
   $mail->Body = '<html> 
                   <head> 
                       <title></title> 
