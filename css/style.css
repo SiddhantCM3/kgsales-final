@@ -1760,6 +1760,7 @@ header#pq-header .pq-top-header .pq-header-contact ul li a:hover {
 header#pq-header .pq-top-header .text-right .pq-header-social ul,
 header#pq-header .pq-top-header .pq-header-social.text-right ul {
   float: right;
+  padding-top: 10px;
 }
 
 header#pq-header .pq-top-header .pq-header-social ul {
@@ -1772,6 +1773,7 @@ header#pq-header .pq-top-header .pq-header-social ul li {
   display: inline-block;
   float: left;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
+  
 }
 
 header#pq-header .pq-top-header .pq-header-social ul li a {
