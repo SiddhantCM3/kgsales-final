@@ -86,7 +86,7 @@
                         <div class="pq-menu-contain">
                            <div class="pq-menu-contain">
                               <ul id="pq-main-menu" class="navbar-nav ml-auto">
-                                 <li class="menu-item current-menu-item">
+                                 <li class="menu-item">
                                     <a href="index.php">Home</a>
                                  </li>
                                  <li class="menu-item ">
