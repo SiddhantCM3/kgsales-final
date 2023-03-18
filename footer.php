@@ -10,7 +10,7 @@
                <div class="row align-items-center">
                   <div class="col-lg-12">
                      <div class="pq-subscribe-bg">
-                        <div class="row align-items-center">
+                        <div class="row align-items-center mt-5">
                            <div class="col-lg-9">
                               <div class="pq-subscribe-block"> <img src="images/Subscribe.png"
                                     class="pq-subscribe-img img-fluid ml-5" alt="medicate-subscribe-image">
