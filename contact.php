@@ -87,19 +87,19 @@
                      <h5 class="pq-section-title">Get in touch with us</h5> </div>
                </div>
                <div class="pq-applyform-whitebg text-start">
-                  <form action="#" class="pq-applyform">
+                  <form action="connection.php" id="contactform" class="pq-applyform">
                      <div class="row">
                         <div class="col-lg-6 col-md-6"> 
-                           <input type="text" id="first-name" name="your-name" class="name-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Name"> 
+                           <input type="text" id="first-name" name="yourname" class="name-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Name"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="email" id="e-mail" name="your-email" class="e-mail-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"> 
+                           <input type="email" id="e-mail" name="youremail" class="e-mail-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="text" id="phone-number" name="phone-number" class="phone-number-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Phone Number"> 
+                           <input type="text" id="phone-number" name="phonenumber" class="phone-number-field" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Phone Number"> 
                         </div>
                         <div class="col-lg-6 col-md-6">
-                           <input type="text" id="subject" name="your-Subject" class="subject-field" size="40" aria-required="true" aria-invalid="false" placeholder="Subject"> 
+                           <input type="text" id="subject" name="yourSubject" class="subject-field" size="40" aria-required="true" aria-invalid="false" placeholder="Subject"> 
                         </div>
                         <div class="col-lg-12 col-md-12">
                            <textarea name="your-message" id="message" cols="40" rows="10" aria-required="true" aria-invalid="false" placeholder="Write Your Message"></textarea>
@@ -107,7 +107,7 @@
                         <div class="col-lg-12 col-md-12">
                            <a class="pq-button form-btn">
                               <div class="pq-button-block">
-                                 <span class="pq-button-text me-0">send message</span>
+                                 <span class="pq-button-text me-0"><input type="submit" value="send message" name="submit" id="submit"></span>
                               </div>
                            </a>
                         </div>
