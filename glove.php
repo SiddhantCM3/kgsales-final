@@ -191,7 +191,7 @@
          <div class="row" id="section-2">
             <div class="col-xl-6 mt-xl-0 mt-5 ps-xl-3">
                <div class="pq-section pq-style-1 ">
-                  <h5 class="pq-section-title"> </h5>
+                  <h5 class="pq-section-title">nitrile gloves</h5>
                   <p class="pq-detail-text">Nitrile is a synthetic copolymer, formed through acrylonitrile and butadiene combining. Nitrile Gloves also have superior chemical resistance to other disposable gloves. This is due to the fact that Nitrile Rubber has better resistance to chemicals, acids & oils over against natural rubber. Nitrile Gloves are also powder free, these further reduce the risk of allergens and dealing with messy powder.</p>
                </div>
                <div class="pq-accordion-block mt-4">

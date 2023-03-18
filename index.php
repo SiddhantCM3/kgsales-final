@@ -202,14 +202,14 @@
    <!--Section  End -->
 
    <!--Section Start -->
-   <section class="pq-bg-grey ">
-      <div class="container">
+   <section class="pq-bg-grey">
+      <div class="container" style="padding:0% 10% 0% 10%">
          <div class="row">
             <div class="col-lg-12">
                <div class="pq-section pq-style-1 text-center"> <span class="pq-section-sub-title">OUR CERTIFICATES</span>
                </div>
             </div>
-            <div class="col-lg-12 pq-testimonial-whitebg ">
+            <div class="col-lg-12 pq-testimonial-whitebg">
                <div class="owl-carousel owl-theme" data-dots="true" data-nav="false" data-desk_num="2" data-lap_num="2"
                   data-tab_num="2" data-mob_num="1" data-mob_sm="1" data-autoplay="true" data-loop="true"
                   data-margin="30">
