@@ -91,7 +91,7 @@
 
 <!--Testimonial Start-->
 <section class="pq-bg-grey ">
-   <div class="container">
+   <div class="container" style="padding:0% 10% 0% 10%">
       <div class="row">
          <div class="col-lg-12">
             <div class="pq-section pq-style-1 text-center"> <span class="pq-section-sub-title">OUR CERTIFICATES</span>
